@@ -1,2 +1,3 @@
-# RAG_model
-A mini chatbot answering questions on few documents of MRI implementations and guidelines.
+# Neuralpal_agent
+
+Creating a mini RAG based AI chatbot for helping users in text interfaces and coding errors in post processing stage of MRI(mainly structural interfaces). 
